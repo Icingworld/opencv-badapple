@@ -11,4 +11,5 @@ library needed:python-opencv、numpy
 Using multithreading maybe better.
 
 converted pictures will be in Directory "pic/"
+
 the video created will be in home directory
