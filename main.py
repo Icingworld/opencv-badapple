@@ -1,6 +1,6 @@
 from div_frame import div, path
 from threshold_ import grey
-from re_vedio import remake
+from re_video import remake
 import cv2
 import os
 
